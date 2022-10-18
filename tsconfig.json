@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Users/GitHubUser.js", "components/Navigation/Logo.js", "components/Navigation/index.js", "components/Avatar/index.js", "pages/index.js"],
   "exclude": ["node_modules"]
 }
